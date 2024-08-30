@@ -1,0 +1,77 @@
+{
+	"game":	{
+		"save_on_exit":	false
+	},
+	"Graphics":	{
+		"ssao":	true,
+		"depthoffield":	true,
+		"refraction_quality":	"high",
+		"render_scale":	2,
+		"setting_framerate_cap":	"165",
+		"shadowmap_resolution":	"4096x4096",
+		"mesh_lod_bias":	"high",
+		"fullscreen_resolution":	"1920x1080",
+		"windowed_resolution":	"1600x900",
+		"device":	"NVIDIA GeForce RTX 3070",
+		"upscale":	"DISABLED",
+		"upscale_quality":	"off",
+		"anti_aliasing":	"MSAAx4",
+		"portrait_multi_sampling":	"x4",
+		"anisotropic_filtering":	"x16",
+		"quality":	"high"
+	},
+	"interface":	{
+		"tooltip_lock_time":	1
+	},
+	"map_modes":	{
+		"map_mode_fade_in":	0.500000
+	},
+	"System":	{
+		"gamepad_cursor_speed":	60,
+		"user_bindings":	"user_bindings/user.bindings"
+	},
+	"Theme":	{
+		"ui_skin_theme":	"gui_skin_base",
+		"seen_ui_skin_theme":	"gui_skin_base,gui_skin_votp,gui_skin_ap1",
+		"papermap_theme":	"papermap_base",
+		"seen_papermap_theme":	"papermap_base,papermap_votp,papermap_ap1",
+		"table_top_theme":	"table_votp",
+		"seen_table_top_theme":	"table_base,table_votp,table_ap1",
+		"table_asset_1_theme":	"papermap_napoleonic_medal",
+		"seen_table_asset_1_theme":	"papermap_object_divider,papermap_napoleonic_medal,papermap_hongshanstatue",
+		"table_asset_2_theme":	"papermap_candle",
+		"seen_table_asset_2_theme":	"papermap_object_compass,papermap_revolutionary_cockade,papermap_candle",
+		"table_asset_3_theme":	"papermap_pocketwatch",
+		"seen_table_asset_3_theme":	"papermap_cigarbox,papermap_grapes,papermap_pocketwatch",
+		"table_asset_4_theme":	"papermap_letter",
+		"seen_table_asset_4_theme":	"papermap_letter,papermap_homemade_bomb,papermap_tainostatue"
+	},
+	"daynight_cycle":	{
+		"sun_duration":	18
+	},
+	"Tools":	{
+},
+	"Audio":	{
+		"MusicDensity":	1,
+		"audio_device_profile":	"Speakers",
+		"disabled_categories":	"",
+		"disabled_tracks":	"",
+		"volume.vca:/MUSIC":	0.100000,
+		"volume.vca:/AMBIENT":	1,
+		"volume.vca:/MUSIC_STINGERS":	1,
+		"volume.vca:/SOUNDTRACK":	1,
+		"volume.vca:/UI":	0.300000,
+		"volume.vca:/SFX":	1,
+		"volume.bus:/":	0.600000
+	},
+	"Account":	{
+},
+	"notifications":	{
+},
+	"GUI":	{
+		"scale":	"1",
+		"tools_gui_scale":	"1"
+	},
+	"accessibility":	{
+}
+}

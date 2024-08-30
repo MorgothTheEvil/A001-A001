@@ -1,0 +1,35 @@
+# Crash Information
+AppName: Victoria 3 
+AppVersion: 1.7.5 
+SCMBranch: release/1.7.x 
+SCMCommit: b6585e559a08ed9c51a31365cbe7b1c8c182593e 
+SCMTimeStamp: "2024-07-11 13:27:36 +0000" 
+DateTime: "2024-08-30 19:29:59 -0400" 
+BuildType: ReleaseLto 
+Platform: Windows 
+Store: steam 
+Architecture: 64-bit 
+OperatingSystem: Windows 10 x86_64 
+SystemLanguage: en 
+CPUModel: AMD Ryzen 9 5900X 12-Core Processor             
+CPUSpeed: 3700 
+CPUPhysicalCores: 12 
+CPULogicalCores: 24 
+SystemMemory: 16282 
+GPUName: NVIDIA GeForce RTX 3070 
+GPUVendor: nVidia 
+GPUId: 9352 
+GPUDedicatedMemory: 8031 
+LaunchArguments: --gdprcompliant --paradoxaccountuserid="" --pdxlaunchersessiontoken="" 
+DLC_1: Voice of the People Preorder 
+DLC_2: Region Pack 1 
+DLC_3: Sphere of Influence 
+DLC_4: Dawn of Wonder 
+DLC_5: Voice of the People 
+DLC_6: Victoria 2 Remastered Soundtrack 
+DLC_7: American Buildings Pack 
+DLC_8: Melodies for the Masses 
+Mod_1: VicConsol 
+Mod_2: Winning or Losing War Matters 
+Mod_3: Cold War Era (1950) 
+Mod_4: CWE Military Revamp 

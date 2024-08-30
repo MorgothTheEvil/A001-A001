@@ -1,0 +1,14 @@
+[18:48:24][game_setup.cpp:209]: Exe Git Version: release/1.7.x : b6585e559
+[18:48:24][game_setup.cpp:210]: Build Timestamp: 2024-07-11 13:27:36 +0000 long hash: b6585e559a08ed9c51a31365cbe7b1c8c182593e
+[18:48:24][systemsettings.cpp:207]: CPU Model: AMD Ryzen 9 5900X 12-Core Processor            
+[18:48:24][systemsettings.cpp:208]: CPU Speed: 3700MHz
+[18:48:24][systemsettings.cpp:209]: CPU Physical Cores: 12
+[18:48:24][systemsettings.cpp:210]: CPU Logical Cores: 24
+[18:48:24][systemsettings.cpp:211]: System Memory: 16282
+[18:48:24][systemsettings.cpp:212]: OS: Windows 10 x86_64
+[18:48:24][systemsettings.cpp:213]: OS Language: en
+[18:48:24][contextowner.cpp:841]: GPU Name: NVIDIA GeForce RTX 3070
+[18:48:24][contextowner.cpp:842]: GPU Vendor: nVidia
+[18:48:24][contextowner.cpp:843]: GPU Id: 9352
+[18:48:24][contextowner.cpp:844]: GPU Dedicated Memory: 8031
+[18:48:34][gameapplication.cpp:1151]: Loading cursors...
